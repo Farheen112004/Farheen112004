@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farheen112004&label=Profile%20views&color=0e75b6&style=flat" alt="farheen112004" /> </p>
 
 
-- 🔭 I’m currently working on **Smart Care**
+- 🔭 I’m currently working on **Leetcode challenges**
 
 - 🌱 I’m currently learning **Flutter,ReactNative**
 
