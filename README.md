@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Leetcode challenges**
 
-- 🌱 I’m currently learning **Tensorflow,Node js**
+- 🌱 I’m currently learning **Flutter,Tensorflow,Node js**
 
 - ⚡ Fun fact **Writing code is like writing a novel; the only difference is that in code, the plot has to work🫡.**
 
