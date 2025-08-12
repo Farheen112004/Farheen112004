@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Leetcode challenges**
 
-- 🌱 I’m currently learning **React Native Ui/Ux development**
+- 🌱 I’m currently learning **ML and Deep Learning Technologies**
 
 - ⚡ Fun fact **Writing code is like writing a novel; the only difference is that in code, the plot has to work🫡.**
 
